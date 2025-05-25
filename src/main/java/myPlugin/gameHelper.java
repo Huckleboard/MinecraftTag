@@ -13,11 +13,5 @@ public class gameHelper {
 //	If active players = 1, thats the winner.
 	
 	
-	
-	//FOR NEXT CLAS
-	/*
-	 * we NEED TO COMPLETE THE TAGCOMMAND JOINCOMMAND AND TAGGAME
-	 * 
-	 * */
 
 }
